@@ -49,16 +49,16 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=izzat21-ui-py&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=izzat21-ui&theme=radical">
 <br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izzat21-ui-py&theme=tokyonight">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izzat21-ui&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzat21-ui-py&theme=tokyonight&hide_border=true" alt="Izzat">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzat21-ui&theme=tokyonight&hide_border=true" alt="Izzat">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=izzat21-ui-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=izzat21-ui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzat21-ui-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzat21-ui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 ## 👁️ Number of visits:
